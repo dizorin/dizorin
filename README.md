@@ -1,10 +1,10 @@
-<h2 align="center">Greetings!!! I'm Dizorin! 🇺🇦</h2>
+I'm a Software Engineer :computer:, Web Developer :globe_with_meridians:, and Mobile Developer :iphone:
 
-I'm a Software Engineer :computer:, Web Developer :globe_with_meridians:  and Mobile Developer :iphone: currently living in Ukraine.
+**🌐 My website:** [https://dizorin.com/](https://dizorin.com/)
 
-## :mortar_board: I’m currently learning:
-- Mobile Development using Kotlin with Android Studio.
-- Web Development using GoLang/NodeJS and Docker.
+## 🎓 I’m currently learning:
+- Mobile Development using Kotlin with Android Studio  
+- Web Development using GoLang/NodeJS and Docker
 
 ## 🚀 Languages and Tools:
 [![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com)
@@ -19,20 +19,19 @@ I'm a Software Engineer :computer:, Web Developer :globe_with_meridians:  and Mo
 
 [![](https://img.icons8.com/fluency/48/000000/android-os.png)](https://www.android.googlesource.com/)
 [![](https://img.icons8.com/color/48/000000/spring-logo.png)](https://www.spring.io/)
-[![](https://sitsena.xyz/javafx.png)](https://www.wiki.openjdk.java.net/display/OpenJFX/Main)
-[![](https://sitsena.xyz/opengl.jpg)](https://www.opengl.org)
-[![](https://sitsena.xyz/boost-cpp.png)](https://www.boost.org/)
-[![](https://sitsena.xyz/glfw.png)](https://www.glfw.org/)
-[![](https://sitsena.xyz/stm.png)](https://www.st.com/)
-[![](https://sitsena.xyz/imgui.png)](https://www.github.com/ocornut/imgui)
-[![](https://sitsena.xyz/go-buffalo.jpg)](https://www.gobuffalo.io/)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/JavaFX_Logo.png/240px-JavaFX_Logo.png)](https://wiki.openjdk.java.net/display/OpenJFX/Main)
+[![](https://upload.wikimedia.org/wikipedia/commons/4/46/OpenGL_logo.svg)](https://www.opengl.org)
+[![](https://raw.githubusercontent.com/glfw/glfw/main/docs/logo/logo.png)](https://www.glfw.org/)
+[![](https://www.st.com/etc.clientlibs/stmicroelectronics/clientlibs/clientlib-site/resources/images/logos/st-logo.png)](https://www.st.com/)
+[![](https://raw.githubusercontent.com/ocornut/imgui/master/docs/logo/imgui-logo.png)](https://www.github.com/ocornut/imgui)
+[![](https://raw.githubusercontent.com/gobuffalo/gobuffalo.dev/main/static/images/logo.png)](https://www.gobuffalo.io/)
 [![](https://img.icons8.com/fluency/48/000000/jupyter.png)](https://www.jupyter.org/)
 [![](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org)
-[![](https://sitsena.xyz/jquery.png)](https://jquery.com/)
-[![](https://sitsena.xyz/pugjs.png)](https://pugjs.org/)
+[![](https://upload.wikimedia.org/wikipedia/commons/8/81/JQuery_logo_text.svg)](https://jquery.com/)
+[![](https://upload.wikimedia.org/wikipedia/commons/3/30/Pug-logo.svg)](https://pugjs.org/)
 [![](https://img.icons8.com/color/48/000000/docker.png)](https://www.docker.com/)
 [![](https://img.icons8.com/color/48/000000/nginx.png)](https://www.nginx.com/)
 
-## :surfer: How to reach me:
-[![](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/Dizorin)
-[![](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail)](amster938@gmail.com)
+## 📬 How to reach me:
+[![](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/Dizorin)  
+[![](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail)](mailto:amster938@gmail.com)
